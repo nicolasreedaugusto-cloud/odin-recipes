@@ -1,5 +1,5 @@
 # odin-recipes
-his is a website I am making full of recipes for people to use.
+This is a website I am making full of recipes for people to use.
 
 I just finished making the Ninho Milk Cake page. I added the ingredients and instructions. As well as a link back to main page.
 
